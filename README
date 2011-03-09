@@ -1,0 +1,12 @@
+This project contains code from an abandoned project: StOgame
+StOgame.net was previously hosted on http://standardogame.mozdev.org,
+where you can find older revisions of it. Please feel free to fork this project
+and reuse it, as it's code is free and I've tried to do my best in squeezing any
+possible feature from Firefox 3.5, but as you have seen, it's life came to an end.
+Server-side code got lost and I don't have the money and will
+to restore http://stogame.net 
+Please just do a pull request, and I'll know that the project can continue its life
+
+   Thank you for all your support Ogamers,
+                       
+       Marco Pivetta - Ocramius Aethril
