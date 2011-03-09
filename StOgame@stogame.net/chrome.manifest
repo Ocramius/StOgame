@@ -1,0 +1,12 @@
+content		StOgame							content/ 											contentaccessible=yes
+resource	StOgame							resources/
+overlay		chrome://browser/content/browser.xul												chrome://StOgame/content/standardogame.xul
+
+
+content		xmpp4moz						jar:content/includes/xmpp4moz/chrome/xmpp4moz.jar!/content/
+locale		xmpp4moz						en-US												jar:content/includes/xmpp4moz/chrome/xmpp4moz.jar!/locale/en-US/
+skin		xmpp4moz						classic/1.0											jar:content/includes/xmpp4moz/chrome/xmpp4moz.jar!/skin/classic/
+
+overlay		chrome://browser/content/browser.xul												chrome://xmpp4moz/content/overlay_browser.xul
+overlay		chrome://messenger/content/messenger.xul											chrome://xmpp4moz/content/overlay_mail.xul
+overlay		chrome://songbird/content/xul/statusBarOverlay.xul									chrome://xmpp4moz/content/overlay_songbird.xul

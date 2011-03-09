@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+	<overlay xmlns='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul'>
+	
+		<script type='application/x-javascript' src='chrome://StOgame/content/includes/jquery-latest.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/globalfunctions.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/ST_Error.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/ST_GlobalOptions.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/GlobalTooltip.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Localization.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/DocumentContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/ST_StorageManager.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/AccountContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Account.class.js'></script>
+		
+		<script type='text/javascript; e4x=1' src='chrome://StOgame/content/classes/XMPPConnection.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/OgameAccount.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Technologies.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/PlanetContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Planet.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Galaxy.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Activity.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Ranks.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/NotesContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/GalaxyNote.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/PlayerNote.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/AllianceNote.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Messages.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/MessagesContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Message.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/SentMessagesContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/SentMessage.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/SightedMessagesContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/SightedMessage.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/CircularMailsContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/CircularMail.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/SpyReportContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/SpyReport.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/SpyResearch.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/CombatReportContainer.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/CombatReport.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Events.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/StOGalaxy.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/Options.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/old_OgameParser.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/new_OgameParser.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/old_OgameModifier.class.js'></script>
+		<script type='application/x-javascript' src='chrome://StOgame/content/classes/new_OgameModifier.class.js'></script>
+		
+		<script type='application/x-javascript' src='chrome://StOgame/content/Loader.js'></script>
+		<script type="application/x-javascript" src="chrome://xmpp4moz/content/xmpp.js"/>
+	</overlay>

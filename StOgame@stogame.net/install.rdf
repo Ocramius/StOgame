@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+	<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+		<Description about="urn:mozilla:install-manifest">
+			<em:id>StOgame@stogame.net</em:id>
+			<em:name>StOgame</em:name>
+			<em:version>3.0.0b1</em:version>
+			<em:description>Making Ogame a better place...</em:description>
+			<em:creator>Ocramius Aethril</em:creator>
+			<em:creator>Pippo1985</em:creator>
+			<em:developer>Zibibbo84</em:developer>
+			<em:developer>PheXus</em:developer>
+			<em:developer>Softyx</em:developer>
+			<em:developer>lark</em:developer>
+			<em:developer>Caprica</em:developer>
+			<em:contributor>Joseph Marquis</em:contributor>
+			<em:contributor>Dario2994</em:contributor>
+			<em:contributor>Alex Diste</em:contributor>
+			<em:contributor>Razzo</em:contributor>
+			<em:contributor>veLuca</em:contributor>
+			<em:contributor>Infinity</em:contributor>
+			<em:homepageURL>http://www.stogame.net</em:homepageURL>
+			<em:aboutURL>http://www.stogame.net/wiki/</em:aboutURL>
+			<em:iconURL>chrome://StOgame/content/skin/stogame_logo_small.png</em:iconURL>
+			<em:type>2</em:type>
+			<em:targetApplication>
+				<Description>
+					<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id><!-- FireFox -->
+					<em:minVersion>3.5</em:minVersion>
+					<em:maxVersion>3.5.*</em:maxVersion>
+				</Description>
+			</em:targetApplication>
+			<em:targetApplication>
+				<Description>
+					<em:id>{a23983c0-fd0e-11dc-95ff-0800200c9a66}</em:id><!-- Fennec -->
+					<em:minVersion>1.0a1</em:minVersion>
+					<em:maxVersion>1.0.*</em:maxVersion>
+				</Description>
+			</em:targetApplication>
+		</Description>
+	</RDF>

@@ -1,0 +1,20 @@
+	Copyright 2007-2009 by Marco Pivetta (ocramius@gmail.com)
+	The contents of this package, of stogame.net, of subdomains of stogame.net 
+	and	of standardogame.mozdev.org are subject to the GNU General Public 
+	License	terms.
+    StOgame is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    StOgame is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with StOgame.  If not, see <http://www.gnu.org/licenses/>.
+
+    Contributor(s):
+	Gianfilippo Grignola (lepitrust@gmail.com)
+	Stefano Chiaro (zibibbo84@supereva.it)

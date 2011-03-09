@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+	<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+		<Description about="urn:mozilla:install-manifest">
+			<em:id>{4217f6d7-406e-4b66-856d-d1a373e4f41a}</em:id>
+			<em:name>StOgame</em:name>
+			<em:version>3.0.0</em:version>
+			<em:description>Making Ogame a better place...</em:description>
+			<em:creator>Ocramius Aethril</em:creator>
+			<em:creator>Pippo1985</em:creator>
+			<em:developer>Alex Diste</em:developer>
+			<em:developer>Dario2994</em:developer>
+			<em:developer>Joseph Marquis</em:developer>
+			<em:contributor>Zibibbo84</em:contributor>
+			<em:contributor>Alissa</em:contributor>
+			<em:contributor>Infinity</em:contributor>
+			<em:homepageURL>http://www.stogame.net</em:homepageURL>
+			<em:updateURL>http://downloads.mozdev.org/standardogame/update/update.rdf</em:updateURL>
+			<em:aboutURL>http://www.stogame.net/wiki/</em:aboutURL>
+			<em:iconURL>chrome://StOgame/content/skin/stogame_logo_small.png</em:iconURL>
+			<em:type>2</em:type>
+			<em:targetApplication>
+				<Description>
+					<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+					<em:minVersion>3.0.0a1</em:minVersion>
+					<em:maxVersion>3.1.*</em:maxVersion>
+				</Description>
+			</em:targetApplication>
+		</Description>
+	</RDF>
